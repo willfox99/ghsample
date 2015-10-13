@@ -1,2 +1,2 @@
 # GithubSample
-A sample folder for demonstrating how GitHub manages repositories
+A sample folder for practicing repository management at Github
